@@ -127,5 +127,97 @@
   ],
   "euf.": [
     "euforizmi"
+  ],
+  "znj.": [
+    "zonjë"
+  ],
+  "z.": [
+    "zoti"
+  ],
+  "dr.": [
+    "doktor"
+  ],
+  "prof.": [
+    "profesor"
+  ],"msc.": [
+    "master i shkencës"
+  ],
+  "ha.": [
+    "hektar"
+  ],
+  "ba.": [
+    "bachelor i arteve"
+  ],
+  "barch.": [
+    "bachelor i arkitekturës"
+  ],
+  "baeng.": [
+    "bachelor i inxhinierisë"
+  ],
+  "bsc.": [
+    "bachelor i shkencës"
+  ],
+  "zv.": [
+    "zëvendës"
+  ],
+  "shpk.": [
+    "shoqëria me pëgjegjësi të kufizuar"
+  ],
+  "bc.": [
+    "barjam curri"
+  ],
+  "br.": [
+    "berat"
+  ],
+  "bz.": [
+    "bulqizë"
+  ],
+  "di.": [
+    "dibër"
+  ],
+  "dl.": [
+    "delvinë"
+  ],
+  "dr.": [
+    "durrës"
+  ],
+  "dv.": [
+    "devoll"
+  ],
+  "el.": [
+    "elbasan"
+  ],
+  "er.": [
+    "ersekë"
+  ],
+  "fr.": [
+    "fier"
+  ],
+  "tr.": [
+    "tiranë"
+  ],
+  "ko.": [
+    "korçë"
+  ],
+  "vl.": [
+    "vlorë"
+  ],
+  "dvp.": [
+    "drejtoria vendore e policisë"
+  ],
+  "dpshtrr.": [
+    "drejtoria e përgjithshne e shërbimeve të transportit rrugor"
+  ],
+  "nr.": [
+    "numër"
+  ],
+  "tel.": [
+    "telefon"
+  ],
+  "cel.": [
+    "celular"
+  ],
+  "pc.": [
+    "kompjuter"
   ]
 }

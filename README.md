@@ -14,5 +14,6 @@ the quality of these words.
 The entries found in this dataset have been manually curated, even though there is still a very low number of them. We'd
 like to express our gratitude in the following alphabetical list.
 
+- Anderson Ceci
 - AndiBraimllari (Andi Braimllari)
 - KostaTB
